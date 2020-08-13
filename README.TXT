@@ -1,4 +1,4 @@
-Qt Solutions Component: Property Browser
+Qt Solutions Component: Property Browser (support by QT5)
 
 A property browser framework enabling the user to edit a set of
 properties.
